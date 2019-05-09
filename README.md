@@ -23,3 +23,6 @@
 ![Mac 开发者工具网站](https://github.com/yjn2015/developer-tools/blob/master/img/mac-tools.png)
 
 
+## Google 浏览器插件
+
+[Google浏览器插件](http://chromecj.com/)
