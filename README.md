@@ -27,6 +27,7 @@
 
 [Google浏览器插件](http://chromecj.com/)
 
+![Google 浏览器插件下载地址](https://github.com/yjn2015/developer-tools/blob/master/img/google-tools.png)
 
 ## 图片压缩工具
 
