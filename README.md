@@ -31,3 +31,5 @@
 ## 图片压缩工具
 
 [TinyPNG] (https://tinypng.com/)
+
+![TingPNG 压缩工具](https://github.com/yjn2015/developer-tools/blob/master/img/tiny-png.png)
