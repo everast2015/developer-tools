@@ -2,7 +2,7 @@
 
 ## 第一步 下载 `Google` 创建
 
-[Google访问助手下载地址]('http://chromecj.com/productivity/2018-12/1695/download.html')
+[Google访问助手下载地址](http://chromecj.com/productivity/2018-12/1695/download.html)
 
 ## 第二步
 
