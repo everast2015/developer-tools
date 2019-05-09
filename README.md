@@ -26,3 +26,8 @@
 ## Google 浏览器插件
 
 [Google浏览器插件](http://chromecj.com/)
+
+
+## 图片压缩工具
+
+[TinyPNG] (https://tinypng.com/)
