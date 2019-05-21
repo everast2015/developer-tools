@@ -16,10 +16,6 @@
 
 
 
-## Mac 开发工具的下载地址
-
-[Mac 开发工具](https://xclient.info/?t=471015245ab2744d6156411d5d92cffba996ad2d)
-
 
 ## Google 浏览器插件
 
@@ -64,6 +60,7 @@
 
 - 工具类
   - [Google浏览器插件](http://chromecj.com/)
+  - [Mac 开发工具](https://xclient.info/?t=471015245ab2744d6156411d5d92cffba996ad2d)
 
 
 
