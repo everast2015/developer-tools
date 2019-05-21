@@ -43,15 +43,11 @@
 ![网盘搜索网址图片](https://github.com/yjn2015/developer-tools/blob/master/img/search-png.png)
 
 
-## 前端学习的网站
+## 前端学习网址
 
-### 前端规范
-
-- [语雀](https://www.yuque.com/fe9/basic/stiqe2)
-
-- [百度前端规范网址](https://www.bookstack.cn/read/ecomfe-spec/package.md)
-
-### 计算机类电子书
+- 前端规范
+  - [语雀](https://www.yuque.com/fe9/basic/stiqe2)
+  - [百度前端规范网址](https://www.bookstack.cn/read/ecomfe-spec/package.md)
 
 - 计算机类书籍
   - [计算机书籍控](http://bestcbooks.com/B002IIE01M/)
