@@ -43,23 +43,24 @@
   - [语雀](https://www.yuque.com/fe9/basic/stiqe2)
   - [百度前端规范网址](https://www.bookstack.cn/read/ecomfe-spec/package.md)
 
-- 计算机类书籍
-  - [计算机书籍控](http://bestcbooks.com/B002IIE01M/)
-  - [免费编程书籍索引](https://github.com/qdlaoyao/free-programming-books-zh_CN)
-
+- 前端大牛博客
+  - [小火柴](https://xiaohuochai.site/)
+  - [技术胖](https://jspang.com/)
 
 - vue 相关资料
   - [vue2.0学习路径](https://zhuanlan.zhihu.com/p/23134551)
   - [vue 入门 精通](https://www.w3cplus.com/blog/vue)
 
-- 前端大牛博客
-  - [小火柴](https://xiaohuochai.site/)
-  - [技术胖](https://jspang.com/)
-
-- 面试刷题
-  - [牛客网](https://www.nowcoder.com/)
+- 计算机类书籍
+  - [计算机书籍控](http://bestcbooks.com/B002IIE01M/)
+  - [免费编程书籍索引](https://github.com/qdlaoyao/free-programming-books-zh_CN)
 
 - 视频学习
   - [B站](https://www.bilibili.com/)
   - [慕课网](https://www.imooc.com/)
+
+- 面试刷题
+  - [牛客网](https://www.nowcoder.com/)
+
+
 
