@@ -14,16 +14,6 @@
 
 4. 最后插件安装成功，亲测有效
 
-## 图片压缩工具
-
-
-
-
-## 网盘搜索
-
-[网盘搜索网址] (http://www.daysou.com/)
-
-
 ## 前端学习网址
 
 - 前端规范
@@ -53,6 +43,7 @@
   - [Google浏览器插件](http://chromecj.com/)
   - [Mac 开发工具](https://xclient.info/?t=471015245ab2744d6156411d5d92cffba996ad2d)
   - [TinyPNG 图片压缩] (https://tinypng.com/)
+  - [网盘搜索网址] (http://www.daysou.com/)
 
 
 
