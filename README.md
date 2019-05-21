@@ -67,4 +67,5 @@
 
 - 视频学习
   - [B站](https://www.bilibili.com/)
+  - [慕课网](https://www.imooc.com/)
 
