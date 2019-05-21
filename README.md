@@ -23,6 +23,7 @@
 - 前端大牛博客
   - [小火柴](https://xiaohuochai.site/)
   - [技术胖](https://jspang.com/)
+  - [阮一峰](http://www.ruanyifeng.com/home.html)
 
 - vue 相关资料
   - [vue2.0学习路径](https://zhuanlan.zhihu.com/p/23134551)
