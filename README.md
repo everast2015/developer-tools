@@ -55,3 +55,4 @@
 
 - 计算机类书籍
   - [计算机书籍控](http://bestcbooks.com/B002IIE01M/)
+  - [免费编程书籍索引](https://github.com/qdlaoyao/free-programming-books-zh_CN)
