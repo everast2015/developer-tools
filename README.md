@@ -23,7 +23,7 @@
 
 ## Google 浏览器插件
 
-[Google浏览器插件](http://chromecj.com/)
+
 
 ![Google 浏览器插件下载地址]
 
@@ -61,6 +61,10 @@
 
 - 面试刷题
   - [牛客网](https://www.nowcoder.com/)
+
+- 工具类
+  - [Google浏览器插件](http://chromecj.com/)
+
 
 
 
