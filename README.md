@@ -42,8 +42,8 @@
 - 工具类
   - [Google浏览器插件](http://chromecj.com/)
   - [Mac 开发工具](https://xclient.info/?t=471015245ab2744d6156411d5d92cffba996ad2d)
-  - [TinyPNG 图片压缩] (https://tinypng.com/)
-  - [网盘搜索网址] (http://www.daysou.com/)
+  - [TinyPNG 图片压缩](https://tinypng.com/)
+  - [网盘搜索网址](http://www.daysou.com/)
 
 
 
