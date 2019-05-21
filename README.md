@@ -28,6 +28,7 @@
 - vue 相关资料
   - [vue2.0学习路径](https://zhuanlan.zhihu.com/p/23134551)
   - [vue 入门 精通](https://www.w3cplus.com/blog/vue)
+  - [vue 组件](https://vuejsexamples.com/)
 
 - 计算机类书籍
   - [计算机书籍控](http://bestcbooks.com/B002IIE01M/)
