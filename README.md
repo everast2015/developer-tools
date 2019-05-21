@@ -20,27 +20,21 @@
 
 [Mac 开发工具](https://xclient.info/?t=471015245ab2744d6156411d5d92cffba996ad2d)
 
-![Mac 开发者工具网站](https://github.com/yjn2015/developer-tools/blob/master/img/mac-tools.png)
-
 
 ## Google 浏览器插件
 
 [Google浏览器插件](http://chromecj.com/)
 
-![Google 浏览器插件下载地址](https://github.com/yjn2015/developer-tools/blob/master/img/google-tools.png)
+![Google 浏览器插件下载地址]
 
 ## 图片压缩工具
 
 [TinyPNG] (https://tinypng.com/)
 
-![TingPNG 压缩工具](https://github.com/yjn2015/developer-tools/blob/master/img/tiny-png.png)
-
 
 ## 网盘搜索
 
 [网盘搜索网址] (http://www.daysou.com/)
-
-![网盘搜索网址图片](https://github.com/yjn2015/developer-tools/blob/master/img/search-png.png)
 
 
 ## 前端学习网址
