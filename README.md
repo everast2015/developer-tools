@@ -56,3 +56,8 @@
 - 计算机类书籍
   - [计算机书籍控](http://bestcbooks.com/B002IIE01M/)
   - [免费编程书籍索引](https://github.com/qdlaoyao/free-programming-books-zh_CN)
+
+
+- vue 相关资料
+  - [vue2.0学习路径](https://zhuanlan.zhihu.com/p/23134551)
+
