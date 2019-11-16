@@ -48,6 +48,16 @@
   - [Mac 开发软件](https://www.macdu.org/)
   - [TinyPNG 图片压缩](https://tinypng.com/)
   - [网盘搜索网址](http://www.daysou.com/)
+  
+ - beyond compare 破解方法
+ 
+ ```js
+ 修改注册表
+
+1 在搜索栏中输入 regedit ，打开注册表
+2 删除项目：计算机\HKEY_CURRENT_USER\Software\Scooter Software\Beyond Compare 4\CacheId
+ 
+ ```
 
 
 
