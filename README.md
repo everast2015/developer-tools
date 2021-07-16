@@ -14,6 +14,19 @@
 
 4. 最后插件安装成功，亲测有效
 
+完全卸载谷歌浏览器的方法，亲测有效：
+
+```js
+1、删除程序里的【Chrome浏览器】到废纸篓
+
+2、在以下三个目录里完全清除Chrome痕迹
+
+/Users/XXX/Library/Application Support/Google/Chrome
+/Users/XXX/Library/Caches/Google/Chrome
+/Library/Google/
+以上就实现了在Mac下完全卸载清除Chrome谷歌浏览器了
+```
+
 ## 前端学习网址
 
 - 前端规范
